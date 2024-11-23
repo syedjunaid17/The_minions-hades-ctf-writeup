@@ -10,12 +10,12 @@ This is a submission for the write-up contest being organised as part of the [Ha
 
 ## Team Information
 
-| \<team-name-on-ctfd\>  | \<X\> members |
+| \<The minions\>  | \<3\> members |
 | ------------- | ------------- |
-| \<name-of-member\> | [\<github-username\>](\<github-profile-URL>\) |
-| \<name-of-member\> | [\<github-username\>](\<github-profile-URL>\) |
-| \<name-of-member\> | [\<github-username\>](\<github-profile-URL>\) |
-| \<name-of-member\> | [\<github-username\>](\<github-profile-URL>\) |
+| \<Junaid Syed\> | [\<syedjunaid17\>](\<github-profile-URL>\) |
+| \<Ananya Mahendra\> | [\<ananya0209\>](\<github-profile-URL>\) |
+| \<Anshuman Ambale Nagendra\> | [\<AnshumanNagendra\>](\<github-profile-URL>\) |
+
 
 <!-- @DONOTEDIT -->
 ## Write-up Index
